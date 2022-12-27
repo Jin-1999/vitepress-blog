@@ -18,6 +18,7 @@ export default {
         items: [
           { text: "Introduction", link: "/2022/" },
           { text: "2022-08-16", link: "/2022/0816" },
+          { text: "浏览器缓存机制", link: "/2022/0508" },
         ],
       },
       {
